@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm HARSHIT KAPADIA</h1>
 <h3 align="center">A curious developer who loves building user-friendly web applications</h3>
 
-- 🔭 I’m currently working on [Farm2Fresh: A Farmer-to-Consumer Green Vegetable Marketplace](https://github.com/Vihar8/Farm2Fresh)
+- 🔭 I’m currently working on [Farm2Fresh: A Farmer-to-Consumer Green Vegetable Marketplace](https://github.com/HARSHIT05060/Farm2Fresh)
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kapadiaharshit563@gmail.com**
 
-- 📄 Know about my experiences [HARSHIT RESUME](https://harshit-kapadia-resume.tiiny.site)
+- 📄 Know about my experiences [HARSHIT RESUME](https://harshit-kapadia-resume.tiiny.site/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
