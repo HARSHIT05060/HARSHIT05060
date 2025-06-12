@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kapadiaharshit563@gmail.com**
 
-- 📄 Know about my experiences [HARSHIT RESUME](https://harshit-kapadia-resume.tiiny.site/)
+- 📄 Know about my experiences [HARSHIT RESUME](https://harshit-kapadiaresume.tiiny.site)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
