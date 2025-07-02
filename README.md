@@ -69,13 +69,10 @@ A comprehensive web application for managing employee payroll and attendance wit
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=HARSHIT05060&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
 
 <div align="center">
   
-### 🚀 "Code is like humor. When you have to explain it, it's bad." – Cory House
+### 🚀 "Code is like humor. When you have to explain it, it's bad."
 
 </div>
 
