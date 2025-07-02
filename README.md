@@ -30,7 +30,7 @@ I'm a passionate full-stack developer who loves crafting user-friendly web appli
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Programming Languages
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Tools & Technologies
@@ -46,22 +46,6 @@ I'm a passionate full-stack developer who loves crafting user-friendly web appli
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHIT05060&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HARSHIT05060&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HARSHIT05060&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-
-## 🔥 Contribution Graph
-
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=HARSHIT05060&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ## 🌐 Connect with Me
