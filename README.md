@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://res.cloudinary.com/dqdrdgwgs/image/upload/v1752667349/Banner_d6arqo.png" alt="Banner" width="100%" />
-</p>
-
 <h1 align="center">Hi there! 👋 I'm HARSHIT KAPADIA</h1>
 
 <p align="center">
@@ -12,13 +8,21 @@
 
 ## 🚀 About Me
 
+<img align="right" src="https://res.cloudinary.com/dqdrdgwgs/image/upload/v1752667349/Banner_d6arqo.png" alt="Banner" width="300" style="margin-left: 20px;" />
+
 I'm a passionate full-stack developer who loves crafting user-friendly web applications and solving complex problems. Currently diving deep into the MERN stack and building scalable solutions.
 
-- 🔭 **Currently working on:** [Payroll & Attendance Management System](https://payroll-mu.vercel.app/)
-- 🌱 **Learning:** MERN Stack Development & Advanced JavaScript Patterns
-- 💬 **Ask me about:** React.js, Node.js, JavaScript, and Web Development
-- 📫 **Reach me at:** kapadiaharshit563@gmail.com
-- 📄 **My Resume:** [View Here](https://harshit-kapadiaresume.tiiny.site)
+- 🔭 I’m currently working on: [Payroll & Attendance Management System](https://payroll-mu.vercel.app/)
+
+- 🌱 Currently learning **MERN Stack Development & Advanced JavaScript Patterns**
+
+- 👨‍💻 I build full-stack applications using the **MERN stack** and love solving real-world problems
+
+- 💬 Ask me about **React.js, Node.js, JavaScript, and Web Development**
+
+- 📫 Reach me at **kapadiaharshit563@gmail.com**
+
+- 📄 My Resume: [View Here](https://harshit-kapadiaresume.tiiny.site)
 
 ---
 
