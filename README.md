@@ -51,28 +51,31 @@ I'm a passionate full-stack developer who loves crafting user-friendly web appli
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
-
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HARSHIT05060&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=HARSHIT05060&show_icons=true&theme=radical" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://nirzak-streak-stats.vercel.app?user=HARSHIT05060" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HARSHIT05060&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=HARSHIT05060&row=2&column=3&theme=onedark" alt="GitHub Trophies" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HARSHIT05060&row=3&column=3&theme=onedark" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HARSHIT05060&bg_color=000000&color=fa7900&line=fb8c1d&point=fb3b02&area=true&hide_border=true" alt="Activity Graph" width="600" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HARSHIT05060&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app?user=HARSHIT05060" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HARSHIT05060&bg_color=000000&color=fa7900&line=fb8c1d&point=fb3b02&area=true&hide_border=true" alt="Activity Graph" />
-</p>
 
 ---
 
