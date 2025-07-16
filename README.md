@@ -1,7 +1,6 @@
 # Hi there! 👋 I'm HARSHIT KAPADIA
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Problem+Solver;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Problem+Solver;Always+Learning" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -38,14 +37,28 @@ I'm a passionate full-stack developer who loves crafting user-friendly web appli
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 📊 GitHub Stats
+## Github Stats
 
+
+<br/>
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HARSHIT05060&show_icons=true&locale=en&layout=compact" alt="HARSHIT05060" />
+<br/>
+<div align="center" > <a href="https://github.com/marketplace/actions/auto-assign-pr-and-issues"><img src="https://github-profile-trophy.vercel.app/?username=HARSHIT05060&row=3&column=3&theme=onedark" alt="Harshit Stats" /></a> </div> <br/> <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HARSHIT05060&show_icons=true&theme=radical&hide_border=true" alt="Harshit's GitHub Stats" />
+  
+[![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=HARSHIT05060&show_icons=true&theme=radical)]()
+</div> <br>
+<div align="center">
+  
+  [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=HARSHIT05060)](https://git.io/streak-stats)
+  
 </div>
+<div align = "center">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHIT05060&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+[![Harshit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HARSHIT05060&bg_color=000000&color=fa7900&line=fb8c1d&point=fb3b02&area=true&hide_border=true)](https://github.com/HARSHIT05060)
+  
 </div>
 
 ## 🌐 Connect with Me
@@ -59,13 +72,6 @@ I'm a passionate full-stack developer who loves crafting user-friendly web appli
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kapadiaharshit563@gmail.com)
 
 </div>
-
-## 💡 Featured Projects
-
-### 🏢 [Payroll & Attendance Management System](https://payroll-mu.vercel.app/)
-A comprehensive web application for managing employee payroll and attendance with modern UI/UX design.
-
-**Tech Stack:** MERN Stack (MongoDB, Express.js, React.js, Node.js)
 
 ---
 
