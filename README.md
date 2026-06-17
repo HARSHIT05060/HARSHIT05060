@@ -59,7 +59,7 @@ I'm a passionate full-stack developer who loves crafting user-friendly web appli
       <img src="https://github-readme-stats.vercel.app/api?username=HARSHIT05060&show_icons=true&theme=radical" alt="GitHub Stats" />
     </td>
     <td align="center">
-      <img src="https://nirzak-streak-stats.vercel.app?user=HARSHIT05060" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats-eight.vercel.app?user=HARSHIT05060&theme=radical" alt="GitHub Streak" />
     </td>
   </tr>
   <tr>
@@ -67,7 +67,7 @@ I'm a passionate full-stack developer who loves crafting user-friendly web appli
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HARSHIT05060&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
     </td>
     <td align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=HARSHIT05060&row=2&column=3&theme=onedark" alt="GitHub Trophies" />
+      <img src="https://trophy.benkou.dev/?username=HARSHIT05060&row=2&column=3&theme=onedark" alt="GitHub Trophies" />
     </td>
   </tr>
 </table>
